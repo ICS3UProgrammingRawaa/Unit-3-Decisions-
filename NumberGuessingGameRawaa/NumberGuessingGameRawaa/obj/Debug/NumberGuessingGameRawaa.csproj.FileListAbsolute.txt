@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\obj\Debug\NumberGuessingGameRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\obj\Debug\NumberGuessingGameRawaa.frmNumberGuessingGame.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\obj\Debug\NumberGuessingGameRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\obj\Debug\NumberGuessingGameRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\obj\Debug\NumberGuessingGameRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\bin\Debug\NumberGuessingGameRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\bin\Debug\NumberGuessingGameRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\bin\Debug\NumberGuessingGameRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\obj\Debug\NumberGuessingGameRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NumberGuessingGameRawaa\NumberGuessingGameRawaa\obj\Debug\NumberGuessingGameRawaa.pdb

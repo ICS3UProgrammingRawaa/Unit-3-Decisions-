@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{887222FC-7579-4FDA-82C8-F76A4E2D14ED}</ProjectGuid>
+    <ProjectGuid>{7AE14CC3-7D23-4712-8122-205562573223}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>NumberGuessingGameRawaa</RootNamespace>
-    <AssemblyName>NumberGuessingGameRawaa</AssemblyName>
+    <RootNamespace>RandomNumberRawaa</RootNamespace>
+    <AssemblyName>RandomNumberRawaa</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,17 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NumberGuessingGameForm.cs">
+    <Compile Include="RandomNumberForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NumberGuessingGameForm.Designer.cs">
-      <DependentUpon>NumberGuessingGameForm.cs</DependentUpon>
+    <Compile Include="RandomNumberForm.Designer.cs">
+      <DependentUpon>RandomNumberForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="NumberGuessingGame.cs" />
+    <Compile Include="RandomNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="NumberGuessingGameForm.resx">
-      <DependentUpon>NumberGuessingGameForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -67,6 +64,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="RandomNumberForm.resx">
+      <DependentUpon>RandomNumberForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

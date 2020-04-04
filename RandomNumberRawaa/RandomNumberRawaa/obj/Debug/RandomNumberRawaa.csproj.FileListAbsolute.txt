@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\bin\Debug\RandomNumberRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\bin\Debug\RandomNumberRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\bin\Debug\RandomNumberRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\obj\Debug\RandomNumberRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\obj\Debug\RandomNumberRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\obj\Debug\RandomNumberRawaa.frmRandomNumber.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\obj\Debug\RandomNumberRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\obj\Debug\RandomNumberRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\obj\Debug\RandomNumberRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RandomNumberRawaa\RandomNumberRawaa\obj\Debug\RandomNumberRawaa.pdb
