@@ -71,6 +71,10 @@ namespace RandomNumberRawaa
                 this.picAnswer.Image = Properties.Resources.checkmark;
                 this.picAnswer.Show();
 
+                // play the sound
+                incorrectSound.Stop();
+                correctSound.Stop();
+
             }
             else
             {
@@ -81,6 +85,10 @@ namespace RandomNumberRawaa
                 //display the correct image
                 this.picAnswer.Image = Properties.Resources.red_x;
                 this.picAnswer.Show();
+
+                // play the sound 
+                correctSound.Stop();
+                incorrectSound.Play();
             }
         }
     }
