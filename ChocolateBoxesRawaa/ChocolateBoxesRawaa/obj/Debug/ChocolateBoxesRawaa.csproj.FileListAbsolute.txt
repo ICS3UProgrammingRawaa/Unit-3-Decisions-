@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\bin\Debug\ChocolateBoxesRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\bin\Debug\ChocolateBoxesRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\bin\Debug\ChocolateBoxesRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\obj\Debug\ChocolateBoxesRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\obj\Debug\ChocolateBoxesRawaa.frmChocolateBoxes.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\obj\Debug\ChocolateBoxesRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\obj\Debug\ChocolateBoxesRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\obj\Debug\ChocolateBoxesRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\obj\Debug\ChocolateBoxesRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\ChocolateBoxesRawaa\ChocolateBoxesRawaa\obj\Debug\ChocolateBoxesRawaa.pdb
