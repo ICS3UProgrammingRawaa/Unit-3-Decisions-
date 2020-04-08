@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\bin\Debug\FactorialDoWhileRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\bin\Debug\FactorialDoWhileRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\bin\Debug\FactorialDoWhileRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\obj\Debug\FactorialDoWhileRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\obj\Debug\FactorialDoWhileRawaa.frmFactorialDoWhile.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\obj\Debug\FactorialDoWhileRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\obj\Debug\FactorialDoWhileRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\obj\Debug\FactorialDoWhileRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\obj\Debug\FactorialDoWhileRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileRawaa\FactorialDoWhileRawaa\obj\Debug\FactorialDoWhileRawaa.pdb
