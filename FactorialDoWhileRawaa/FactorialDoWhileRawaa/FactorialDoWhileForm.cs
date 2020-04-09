@@ -52,6 +52,9 @@ namespace FactorialDoWhileRawaa
                 this.prbProgressBar.Value = factorialCounter;
                 factorialCounter = factorialCounter + 1;
 
+                //list the counter number in list box for the user to see
+                lstFactorialNumbers.Items.Add(factorialCounter);
+
                 // multiply the counter by the answer
                 factorialAnswer = factorialCounter * factorialAnswer;
             } while (factorialNumber != factorialCounter);

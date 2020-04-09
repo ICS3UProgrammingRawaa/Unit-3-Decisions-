@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\bin\Debug\WalkingManRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\bin\Debug\WalkingManRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\bin\Debug\WalkingManRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\obj\Debug\WalkingManRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\obj\Debug\WalkingManRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\obj\Debug\WalkingManRawaa.frmWalkingMan.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\obj\Debug\WalkingManRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\obj\Debug\WalkingManRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\obj\Debug\WalkingManRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManRawaa\WalkingManRawaa\obj\Debug\WalkingManRawaa.pdb
