@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\bin\Debug\PerfectSquareWithWhileLoopRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\bin\Debug\PerfectSquareWithWhileLoopRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\bin\Debug\PerfectSquareWithWhileLoopRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\obj\Debug\PerfectSquareWithWhileLoopRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\obj\Debug\PerfectSquareWithWhileLoopRawaa.frmPerfectSquareWithWhileLoop.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\obj\Debug\PerfectSquareWithWhileLoopRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\obj\Debug\PerfectSquareWithWhileLoopRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\obj\Debug\PerfectSquareWithWhileLoopRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\obj\Debug\PerfectSquareWithWhileLoopRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PerfectSquareWithWhileLoopRawaa\PerfectSquareWithWhileLoopRawaa\obj\Debug\PerfectSquareWithWhileLoopRawaa.pdb
