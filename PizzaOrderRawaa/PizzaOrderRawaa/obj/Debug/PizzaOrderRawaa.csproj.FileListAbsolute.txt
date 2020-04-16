@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\bin\Debug\PizzaOrderRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\bin\Debug\PizzaOrderRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\bin\Debug\PizzaOrderRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\obj\Debug\PizzaOrderRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\obj\Debug\PizzaOrderRawaa.frmPizzaOrder.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\obj\Debug\PizzaOrderRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\obj\Debug\PizzaOrderRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\obj\Debug\PizzaOrderRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\obj\Debug\PizzaOrderRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\PizzaOrderRawaa\PizzaOrderRawaa\obj\Debug\PizzaOrderRawaa.pdb
