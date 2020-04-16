@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\bin\Debug\UnicodeRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\bin\Debug\UnicodeRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\bin\Debug\UnicodeRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\obj\Debug\UnicodeRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\obj\Debug\UnicodeRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\obj\Debug\UnicodeRawaa.frmUnicode.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\obj\Debug\UnicodeRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\obj\Debug\UnicodeRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\obj\Debug\UnicodeRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeRawaa\UnicodeRawaa\obj\Debug\UnicodeRawaa.pdb
