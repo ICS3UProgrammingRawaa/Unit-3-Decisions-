@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\obj\Debug\NestedLoopsRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\obj\Debug\NestedLoopsRawaa.frmNestedLoops.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\obj\Debug\NestedLoopsRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\obj\Debug\NestedLoopsRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\obj\Debug\NestedLoopsRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\bin\Debug\NestedLoopsRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\bin\Debug\NestedLoopsRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\bin\Debug\NestedLoopsRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\obj\Debug\NestedLoopsRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsRawaa\NestedLoopsRawaa\obj\Debug\NestedLoopsRawaa.pdb
