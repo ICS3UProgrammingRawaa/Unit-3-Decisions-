@@ -1,0 +1,10 @@
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\bin\Debug\RunningAverageRawaa.exe.config
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\bin\Debug\RunningAverageRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\bin\Debug\RunningAverageRawaa.pdb
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\obj\Debug\RunningAverageRawaa.csprojAssemblyReference.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\obj\Debug\RunningAverageRawaa.frmRunningAverage.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\obj\Debug\RunningAverageRawaa.Properties.Resources.resources
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\obj\Debug\RunningAverageRawaa.csproj.GenerateResource.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\obj\Debug\RunningAverageRawaa.csproj.CoreCompileInputs.cache
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\obj\Debug\RunningAverageRawaa.exe
+C:\Users\Rawaa\Documents\ICS3U Programming\Unit-3-Decisions-\RunningAverageRawaa\RunningAverageRawaa\obj\Debug\RunningAverageRawaa.pdb
